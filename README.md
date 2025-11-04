@@ -1,8 +1,3 @@
-here’s a short + clean one 👇
-(copy paste into `README.md`)
-
----
-
 # Firebase Auth App 🔐
 
 A simple Android app built with **Kotlin** + **Firebase Authentication**.
